@@ -1,6 +1,4 @@
-```
 [demo](https://victornns.github.io/front-end-test/ "victornns.github.io/front-end-test")
-```
 
 ## Getting started
 * First download or clone this repo :)
