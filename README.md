@@ -1,10 +1,8 @@
-Getting started
-==========================
-
 ```
-Preview: https://victornns.github.io/front-end-test
+[demo](https://victornns.github.io/front-end-test/ "victornns.github.io/front-end-test")
 ```
 
+## Getting started
 * First download or clone this repo :)
 * Then run `npm install` to install dev dependencies. Use sudo if needed.
 
